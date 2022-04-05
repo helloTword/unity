@@ -34,6 +34,8 @@ namespace Day02
             //空字符
             String a="a131\0131231\0";
             Console.WriteLine(a);
+            // \n回车换行
+            Console.WriteLine("您好,我是隔壁人!");
         }
     }
 }
