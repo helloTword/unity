@@ -1,0 +1,8 @@
+D:\unity\Visual Studio\SolutionBase\Day01\bin\Debug\Day01.exe.config
+D:\unity\Visual Studio\SolutionBase\Day01\bin\Debug\Day01.exe
+D:\unity\Visual Studio\SolutionBase\Day01\bin\Debug\Day01.pdb
+D:\unity\Visual Studio\SolutionBase\Day01\obj\Debug\Day01.csproj.AssemblyReference.cache
+D:\unity\Visual Studio\SolutionBase\Day01\obj\Debug\Day01.csproj.SuggestedBindingRedirects.cache
+D:\unity\Visual Studio\SolutionBase\Day01\obj\Debug\Day01.csproj.CoreCompileInputs.cache
+D:\unity\Visual Studio\SolutionBase\Day01\obj\Debug\Day01.exe
+D:\unity\Visual Studio\SolutionBase\Day01\obj\Debug\Day01.pdb

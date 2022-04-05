@@ -1,0 +1,9 @@
+物体（游戏对象）是容器（装组件）        组件是功能
+Transform
+position：位置   x轴（红色） 左右      y轴（绿色）  上下    z轴（蓝色） 前后
+Rotation：旋转
+Scale：缩放比例
+
+Mesh Filter 渲染形状
+Mesh Renderer 负责渲染【取消就没有渲染，看不见了】
+（material 材质）
